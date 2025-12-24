@@ -1,0 +1,41 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+*.iws
+out/
+target/
+*.classpath
+*.project
+*.settings/
+.vscode/
+
+# Compiled Java
+*.class
+
+# Logs
+logs/
+*.log
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Local configuration (e.g. database passwords, API keys)
+config.local
+*.properties.local
+.env
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# JShell scratch files
+*.jsh
